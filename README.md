@@ -8,11 +8,12 @@
 ## 🚀 Live Demo
 
 🔗 **Web App:**
-
-
 ```text
 https://medical-cost-estimator-100.streamlit.app/
+```
+
 ---
+
 
 # ✨ Features
 
@@ -214,13 +215,13 @@ The application provides:
 
 ---
 
-
 # ▶️ Run the Application
 
 ```bash
 streamlit run app.py
 ```
 
+---
 
 # 📦 Dependencies
 
@@ -241,6 +242,9 @@ pip install -r requirements.txt
 * ☁️ Cloud deployment
 * 🤖 Support for additional ML models
 * 📈 Model monitoring and automated retraining
+
+---
+
 
 ---
 
