@@ -8,18 +8,10 @@
 ## 🚀 Live Demo
 
 🔗 **Web App:**
-**Coming Soon...**
+
 
 ```text
-https://your-streamlit-app.streamlit.app
-```
-
----
-
-## 📸 Preview
-
-> *(Add screenshots or GIFs of your application here.)*
-
+https://medical-cost-estimator-100.streamlit.app/
 ---
 
 # ✨ Features
@@ -222,36 +214,6 @@ The application provides:
 
 ---
 
-# ⚙️ Installation
-
-### Clone the repository
-
-```bash
-git clone <repository-url>
-cd Insurance-Predictor
-```
-
-### Create a virtual environment
-
-```bash
-python -m venv .venv
-```
-
-### Activate the environment
-
-**Windows**
-
-```bash
-.venv\Scripts\activate
-```
-
-### Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
----
 
 # ▶️ Run the Application
 
@@ -259,7 +221,6 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
----
 
 # 📦 Dependencies
 
@@ -280,25 +241,6 @@ pip install -r requirements.txt
 * ☁️ Cloud deployment
 * 🤖 Support for additional ML models
 * 📈 Model monitoring and automated retraining
-
----
-
-# 🤝 Contributing
-
-Contributions are welcome!
-
-If you'd like to improve this project:
-
-1. Fork the repository.
-2. Create a new branch.
-3. Commit your changes.
-4. Open a Pull Request.
-
----
-
-# ⭐ Support
-
-If you found this project helpful, consider giving it a **⭐ Star** on GitHub.
 
 ---
 
